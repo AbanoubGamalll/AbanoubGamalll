@@ -11,9 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
-v
-
 <a href="https://www.github.com/AbanoubGamalll" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AbanoubGamalll?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 
