@@ -1,5 +1,6 @@
 <div align="center"><a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=32&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Hello+there+👋🏼;My+Name+is+Abanoub+Gamal;I+am+a+Software+Developer+💻" alt="Typing SVG" /></a></div>
 
+
 ## 
 - 🌍  I'm based in Cairo, Egypt
 
@@ -55,3 +56,11 @@ src="https://img.shields.io/github/followers/AbanoubGamalll?logo=github&style=fo
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=AbanoubGamalll)-->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubGamalll&show_icons=true&locale=en&layout=compact" alt="AbanoubGamalll" />
+</div>
+</br>
+<!-- <div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbanoubGamalll&show_icons=true&locale=en" alt="AbanoubGamalll" />
+</div> -->
