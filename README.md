@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abanoub.gamal.fekry@gmail.com**
 
-- My Resume: <a href="https://flowcv.com/resume/1i216qovc0"> HERE </a>
+- 🗃️ My Resume: <a href="https://flowcv.com/resume/1i216qovc0"> HERE </a>
 
 
 <h3 align="left">Connect with me:</h3>
