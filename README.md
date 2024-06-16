@@ -10,11 +10,12 @@
 
 - 📫 How to reach me **abanoub.gamal.fekry@gmail.com**
 
+- My Resume: <a href="https://flowcv.com/resume/1i216qovc0"> HERE </a>
+
+
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.github.com/AbanoubGamalll" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AbanoubGamalll?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-
+<img src="https://img.shields.io/github/followers/AbanoubGamalll?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 
 <h3 align="center">Socials</h3>
 <div align="center">
