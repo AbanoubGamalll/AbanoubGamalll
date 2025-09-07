@@ -1,4 +1,4 @@
-<div align="center"><a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=32&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Hello+there+👋🏼;My+Name+is+Abanoub+Gamal;I+am+a+Software+Developer+💻" alt="Typing SVG" /></a></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋🏼;My+Name+is+Abanoub+Gamal;I+am+a+Software+Developer+💻)](https://git.io/typing-svg)
 
 ## 
 - 🌍  I'm based in Cairo, Egypt
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abanoub.gamal.fekry@gmail.com**
 
-- 🗃️ My Resume: <a href="https://flowcv.com/resume/1i216qovc0"> HERE </a>
+<!-- - 🗃️ My Resume: <a href="https://flowcv.com/resume/1i216qovc0"> HERE </a> -->
 
 
 <!-- Connect with me -->
