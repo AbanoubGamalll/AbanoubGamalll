@@ -3,9 +3,9 @@
 ## 
 - 🌍  I'm based in Cairo, Egypt
 
-- 🌱 I’m currently learning **Backend using NodeJS**
+- 🌱 I’m currently learning **Software Testing**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Software Dev**
 
 - 📫 How to reach me **abanoub.gamal.fekry@gmail.com**
 
